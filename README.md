@@ -4,5 +4,5 @@ This respositort contains all the learning materials required to mastering array
 
 Day 1:
 Understanding Arrays
-🔶 Learn the basics of arrays: indexing, access, and memory allocation.
-🔶 Study the advantages and limitations of arrays.
+- Learn the basics of arrays: indexing, access, and memory allocation.
+- Study the advantages and limitations of arrays.
